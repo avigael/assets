@@ -1,2 +1,3 @@
-# assets
-Repository used to host small files 
+# Assets
+
+I use this repository to host random files. Please ignore.
